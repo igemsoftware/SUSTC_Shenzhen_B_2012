@@ -9,6 +9,8 @@ TTEC source code.rar - This file contains the source code of the PC software
 
 weblabDocuments.rar -This RAR contains some documents about weblab.
 
+TE database update 6.0.xls - store the information of our terminator database.
+
 *******************************************************************************
 RUNNING ENVIRONMENTS
 
